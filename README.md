@@ -33,6 +33,8 @@ The IR sensor detects the presence of an object. Once an object is detected, Nod
 - KiwisIoT Platform
 - KiwisIoT Library
 
+[View Arduino Code](./dispenser.ino)
+
 ## 🔌 Pin Connections
 
 | Component | NodeMCU Pin |
@@ -59,6 +61,8 @@ The IR sensor detects the presence of an object. Once an object is detected, Nod
 | Channel | Description |
 |---|---|
 | Channel 0 | Dispenser Status (1 = ON, 0 = OFF) |
+
+![Water Dispenser Pump Output](./pumpigss.png)
 
 ## ✨ Features
 
