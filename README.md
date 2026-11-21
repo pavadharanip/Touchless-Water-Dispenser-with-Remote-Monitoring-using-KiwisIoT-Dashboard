@@ -62,7 +62,7 @@ The IR sensor detects the presence of an object. Once an object is detected, Nod
 |---|---|
 | Channel 0 | Dispenser Status (1 = ON, 0 = OFF) |
 
-![Water Dispenser IoT Output](./dispenseriot.jpeg)
+![Water Dispenser IoT Output](./wateriot.jpeg)
 
 ## ✨ Features
 
